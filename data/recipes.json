@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "First",
+    "descricao": "Camarão, creme de leite, tomates, cebola, tempero verde, temperos. Massa: trigo, ovos, leite, margarina, óleo.",
+    "src": "assets/1-Empadão de camarão.jpeg"
+  },
+  {
+    "titulo": "Torta de palmito",
+    "descricao": "Pão pulmann, creme de cebola, palmito, requeijão, leite, queijo mussarela",
+    "src": "assets/2-Torta de Palmito.jpeg"
+  },
+  {
+    "titulo": "New Fucking recipe duude",
+    "descricao": "Massa: Ovos, leite, trigo, orégano, fermento. </br> Recheio: Presunto, queijo, ovos, tomate, cebola, azeitonas,tempero verde, requeijão",
+    "src": "assets/3-Torta Portuguesa.jpeg"
+  },
+  {
+    "titulo": "Right after yOk'ls",
+    "descricao": "Massa: Trigo, manteiga, ovos, óleo de oliva, leite  Recheio: Filé Mignon, cebola roxa, tomate, alho, tempero verde",
+    "src": "assets/4-Torta de Mignon com molho branco.jpeg"
+  },
+  {
+    "titulo": "Pega marido",
+    "descricao": "Milho, frango, creme de leite, requeijão, cebola, tomate, queijo mussarela",
+    "src": "assets/5-Pega Marido.jpeg"
+  },
+  {
+    "titulo": "Torta de Frango com alho poró e massa folhada",
+    "descricao": "Massa folhada, peito de frango, alho poró, cebola, tomates, creme de leite",
+    "src": "assets/6-Torta de frango com alho poró na massa folhada.jpeg"
+  }
+]
